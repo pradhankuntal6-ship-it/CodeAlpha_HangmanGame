@@ -100,7 +100,3 @@ MAX_INCORRECT_GUESSES = 6
 ## Contributing
 
 Suggestions and pull requests are welcome. Feel free to open an issue.
-
-## License
-
-Add a license of your choice (for example MIT).
